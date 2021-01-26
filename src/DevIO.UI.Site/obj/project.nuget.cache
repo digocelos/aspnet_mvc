@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tm3iqf1s1o6E8SLCZcjmRpqfWbm64tNbGeAvbo9gfAGEBJMuJ1dMcN4FRq2NAiaJdYnlsSPDWMqiUojc1XXk1A==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\dotnetcore\\aspnet_mvc\\src\\DevIO.UI.Site\\DevIO.UI.Site.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.vasconcelos\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}
