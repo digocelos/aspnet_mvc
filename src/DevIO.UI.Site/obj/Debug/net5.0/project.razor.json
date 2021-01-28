@@ -11384,6 +11384,32 @@
         }
       },
       {
+        "HashCode": 1738733781,
+        "Kind": "ITagHelper",
+        "Name": "DevIO.UI.Site.Extensions.EmailTagHelper",
+        "AssemblyName": "DevIO.UI.Site",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "email"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "email-domain",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "EmailDomain"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "DevIO.UI.Site.Extensions.EmailTagHelper"
+        }
+      },
+      {
         "HashCode": 379793146,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
